@@ -337,16 +337,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Final Inspiring Quote */}
-      <section className="py-16 px-4 bg-gradient-to-r from-amber-300 via-rose-300 to-fuchsia-300">
-        <div className="max-w-4xl mx-auto text-center">
-   
-          <div className="sweet-quote text-3xl md:text-4xl font-bold text-white mb-6">
-            Life is short, eat the cake, chase the dreams, and always believe in magic! ✨🎂✨
-          </div>
-          <p className="text-xl text-white/90">- Golden Crust Bakery Family</p>
-        </div>
-      </section>
     </div>
   )
 }
