@@ -7,9 +7,10 @@ export default function Footer() {
   return (
     <footer className="text-white">
       
+           
 
       {/* Main Footer */}
-      <div className="bg-gradient-to-br from-violet-900  bg-black/20  to-rose-900 py-12 px-4 relative overflow-hidden">
+      <div className="w-full bg-amber-600 hover:bg-amber-700 text-white py-3">
         <div className="absolute inset-0 bg-black/20"></div>
         <div className="max-w-6xl mx-auto grid md:grid-cols-4 gap-8 relative z-10">
           {/* Company Info */}
